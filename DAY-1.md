@@ -70,6 +70,7 @@ Linear Regression is highly effective when:
 This project demonstrates how **Simple Linear Regression** can be used to make accurate predictions with minimal effort. Despite its simplicity, it remains a **powerful technique** in data science and machine learning, especially for problems with clear linear patterns.
 
 The key takeaways from this project include:
+
 ✅ Understanding how Linear Regression works.  
 ✅ Learning to apply it using **Scikit-Learn** in Python.  
 ✅ Visualizing the results to gain insights into the data.  
